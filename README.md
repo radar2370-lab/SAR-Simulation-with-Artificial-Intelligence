@@ -20,9 +20,9 @@ An interactive web tool for Search and Rescue (SAR) operations that generates IS
 4. Optionally, click "Generate AI Search Polygons" for AI-powered priority zones
 5. Export to CalTopo via KML or GPX
 
-## Live demo
+## Live demo (non-ai)
 
-Visit the [live tool](https://YOUR-USERNAME.github.io/SAR-Probability-Rings/) (replace with your actual URL).
+Visit the non-ai tool! [live tool](https://radar2370-lab.github.io/SAR-Prediction-Model/).
 
 ## Architecture
 
